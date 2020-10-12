@@ -1,4 +1,4 @@
-# AE render with alpha
+# AE Render with alpha
 AE script that allows to render videos with alpha channel using prebuilt template
 
 Instruction:
